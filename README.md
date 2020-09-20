@@ -7,16 +7,13 @@
 > Kelas 	: A
 
 
-**Shift Cipher atau disebut juga Caesar Cipher**
 
-**merupakan teknik enkripsi berbasis substitusi**
+**Shift Cipher atau disebut juga Caesar Cipher merupakan teknik enkripsi berbasis substitusi**
 
 
 - Enkripsi
 
 E(x) = (x+K) mod 26
-
-
 - Dekripsi
 
 D(x) = (x-K) mod 26

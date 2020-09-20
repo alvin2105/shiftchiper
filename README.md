@@ -1,14 +1,15 @@
 # Program Shift Chiper - Praktikum Kriptografi
-Nama 	: Alvin
-NPM		: 140810180013
-Kelas 	: A
+
+> Nama 	: Alvin
+> NPM		: 140810180013
+> Kelas 	: A
 
 **Shift Cipher atau disebut juga Caesar Cipher**
 **merupakan teknik enkripsi berbasis substitusi.**
 
-Enkripsi
+- Enkripsi
 E(x) = (x+K) mod 26
-Dekripsi
+- Dekripsi
 D(x) = (x-K) mod 26
 
 Ket:
